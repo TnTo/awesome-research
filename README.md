@@ -36,6 +36,7 @@ Most of these resources also allow to recover a copy of the paper or book search
 * [Web of Science](https://www.webofscience.com/) [Clarivate] 📝
 * [Semantic Scholar](https://www.semanticscholar.org/) [Allen Institute]
 * [Crossref Search](https://search.crossref.org/)
+* [unpaywall Search](http://unpaywall.org/articles) [OurReasearch]
 * [DoAJ](https://doaj.org/) 🔓 - Open Access papers and journals only
 * [BASE](https://www.base-search.net/) [University of Bielefeld] 🇺🇳
 * [CORE](https://core.ac.uk/)
@@ -56,12 +57,12 @@ Some [search engines](#search-engines) also provide access to papers and books t
 Similarly, some papers are also available in [preprint repositories](#preprint-servers-and-other-repositories).  
 These are additional resources which search internet for pdf version of articles and books.
 
-* unpaywalled
-* Endnote click [Clarivate]
-* sci-hub
-* libgen
-* lib-z
-* nexus
+* [unpaywall](http://unpaywall.org/) [OurResearch] 🔓 - A browser plugin for Chrome and Firefox which, when the webpage of an article is opened, shows if there is a pdf available on internet
+* [EndNoteClick](https://click.endnote.com/) [Clarivate] 📝 - A browser plugin for Chrome and Firefox which, when the webpage of an article is opened, shows if there is a pdf available on internet
+* [sci-hub](https://sci-hub.ru/) 🏴‍☠️ - A website which recover papers pdf from publishers sites, thanks to researchers that have shared their credentials
+* [LibGen](https://libgen.fun/) 🏴‍☠️ - Library Genesis. An online library built over year by the upload of many researchers
+* [ZLibrary](https://z-lib.org/) 🏴‍☠️ - An alternative to Library Genesis. Often accessible by [mirror](https://1lib.domains/)
+* [Nexus](https://t.me/nexus_search) 🏴‍☠️ - Telegram channel which provides a bot (available in the description) to search material from Sci-Hub and LibGen
 
 ## Preprint servers and other repositories
 
@@ -83,7 +84,7 @@ These are additional resources which search internet for pdf version of articles
 ## Dataset of Academic Data
 Many [search engines](#search-engines) provides API to collect bibliographic data, these are additional dataset without online searching capacities.
 
-* https://openalex.org/
+* https://openalex.org/ [OurResearch]
 * https://opencitations.net/
 * https://www.lens.org/
 * https://www.dimensions.ai/
