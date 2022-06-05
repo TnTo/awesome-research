@@ -41,6 +41,7 @@ Most of these resources also allow to recover a copy of the paper or book search
 * [BASE](https://www.base-search.net/) [University of Bielefeld] 🇺🇳
 * [CORE](https://core.ac.uk/)
 * [Science.gov](https://www.science.gov/) [US governemt] 🇺🇳
+* [Mendeley](https://www.mendeley.com/) [Elsivier] - From the same provider of Scopus
 
 #### Discipline specific
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/) [US goverment] 🇺🇳 - Biomedical science
@@ -92,9 +93,9 @@ Many [search engines](#search-engines) provides API to collect bibliographic dat
 * https://constellate.org/
 
 ## Reference management
-* zotero
-* mendeley [Elsivier]
-* endnote [Clarivate]
+* [Zotero](https://www.zotero.org/) 🔓 - An open-source reference manager. It supports many backends for backup and it is extensible with many plugins. Require registration for online use, which remains limited
+* [Mendeley](https://www.mendeley.com/) [Elsivier] 📝 - Elsivier solution for reference management with both online interface and offline client
+* [EndNote](https://endnote.com/) [Clarivate] 💵 - Clarivate solution for reference management
 
 ## Researcher identities
 * orcid
