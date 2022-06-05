@@ -18,6 +18,7 @@ A curated list of tools for academic research.
 * [Researcher identities](#researcher-identities)
 * [Open peer review and research integrity](#open-peer-review-and-research-integrity)
 * [Crowd editing](#crowd-editing)
+* [Journal management systems](#journal-management-systems)
 
 ## Legend
 🔓 Open source software and/or liberal licensed dataset    
@@ -111,3 +112,7 @@ Many [search engines](#search-engines) provides API to collect bibliographic dat
 * office365?
 * collabora
 * colab
+
+## Journal management systems
+* OJS
+* PubPub
