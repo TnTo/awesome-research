@@ -103,8 +103,8 @@ Many [search engines](#search-engines) provides API to collect bibliographic dat
 * [Publons](https://publons.com/) [Clarivate] 📝 - Clarivate's unique identifier for researchers
 
 ## Open peer review and research integrity
-* Pubpeer
-* retraction watch
+* [PubPeer](https://pubpeer.com/) - An archive of comments to articles to point out errors and strange choices. In other words a post-publication peer-review site
+* [Retraction Watch](https://retractionwatch.com/) 🔓 - A blog on retracted papers which maintains a dataset of retracted papers
 
 ## Crowd editing
 * overleaf
