@@ -98,8 +98,8 @@ Many [search engines](#search-engines) provides API to collect bibliographic dat
 * [EndNote](https://endnote.com/) [Clarivate] 💵 - Clarivate solution for reference management
 
 ## Researcher identities
-* orcid
-* publons
+* [ORCID](https://orcid.org/) 📝 - Unique identifier for researchers. Often available as login method for website for researchers
+* [Publons](https://publons.com/) [Clarivate] 📝 - Clarivate's unique identifier for researchers
 
 ## Open peer review and research integrity
 * Pubpeer
