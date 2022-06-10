@@ -18,6 +18,9 @@ A curated list of tools for academic research.
 * [Researcher identities](#researcher-identities)
 * [Open peer review and research integrity](#open-peer-review-and-research-integrity)
 * [Crowd editing](#crowd-editing)
+* [Grammar checker](#grammar-checker)
+  * [Sites](#sites)
+  * [Software and Plugins](#software-and-plugins)
 * [Journal management systems](#journal-management-systems)
 
 ## Legend
@@ -79,6 +82,7 @@ These are additional resources which search internet for pdf version of articles
 
 ### Other repositories
 * zenodo
+* academictorrents
   
 #### Discipline specific
 * jstor
@@ -92,6 +96,7 @@ Many [search engines](#search-engines) provides API to collect bibliographic dat
 * https://www.dimensions.ai/
 * https://www.aminer.org/
 * https://constellate.org/
+* CrossRef API (mirrored on academic torrents) https://academictorrents.com/browse.php?search=crossref
 
 ## Reference management
 * [Zotero](https://www.zotero.org/) 🔓 - An open-source reference manager. It supports many backends for backup and it is extensible with many plugins. Require registration for online use, which remains limited
@@ -107,11 +112,23 @@ Many [search engines](#search-engines) provides API to collect bibliographic dat
 * [Retraction Watch](https://retractionwatch.com/) 🔓 - A blog on retracted papers which maintains a dataset of retracted papers
 
 ## Crowd editing
-* overleaf
-* google-documents
-* office365?
-* collabora
-* colab
+* [Overleaf](https://www.overleaf.com/) 📝 - Online collaborative LaTeX editor 
+* [Google Docs](https://docs.google.com/) [Google] 📝 - Online collaborative office suite
+* [Office365](https://www.office.com/) [Microsoft] 💵 - Online collaborative office suite
+* [Collabora Online](https://www.collaboraoffice.com/) 🔓💵 - Online open-source collaborative office suite. It is possible to self-host Collabora and integrate it with NextCloud/OwnCloud
+* [Colaboratory](https://colab.research.google.com/) [Google] 📝 - Online collaborative jupyter notebooks
+* [GitHub](https://github.com/) [Microsoft] 📝 - Online git server
+* [GitLab](https://gitlab.com/) 🔓📝 - Online open-source git server
+
+## Grammar checker
+### Sites
+* reverso
+* wordreference
+* deepl
+### Software and Plugins
+* LanguageTool
+* Grammarly
+
 
 ## Journal management systems
 * OJS
