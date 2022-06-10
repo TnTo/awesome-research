@@ -131,5 +131,5 @@ Many [search engines](#search-engines) provides API to collect bibliographic dat
 
 
 ## Journal management systems
-* OJS
-* PubPub
+* [Open Journal Systems](https://pkp.sfu.ca/ojs/) 🔓 - Journal management, from submission to peer review and publishing
+* [PubPub](https://www.pubpub.org/) 🔓 - Journal management, from crowd editing, to peer review and publishing
