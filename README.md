@@ -16,12 +16,14 @@ A curated list of tools for academic research.
 * [Dataset of Academic Data](#dataset-of-academic-data)
 * [Reference management](#reference-management)
 * [Researcher identities](#researcher-identities)
-* [Open peer review and research integrity](#open-peer-review-and-research-integrity)
 * [Crowd editing](#crowd-editing)
 * [Grammar checker](#grammar-checker)
   * [Sites](#sites)
   * [Software and Plugins](#software-and-plugins)
 * [Journal management systems](#journal-management-systems)
+* [Open Science](#open-science)
+  * [Open peer review and research integrity](#open-peer-review-and-research-integrity)
+  * [Learning Resources](#learning-resources)
 
 ## Legend
 🔓 Open source software and/or liberal licensed dataset    
@@ -107,10 +109,6 @@ Many [search engines](#search-engines) provides API to collect bibliographic dat
 * [ORCID](https://orcid.org/) 📝 - Unique identifier for researchers. Often available as login method for website for researchers
 * [Publons](https://publons.com/) [Clarivate] 📝 - Clarivate's unique identifier for researchers
 
-## Open peer review and research integrity
-* [PubPeer](https://pubpeer.com/) - An archive of comments to articles to point out errors and strange choices. In other words a post-publication peer-review site
-* [Retraction Watch](https://retractionwatch.com/) 🔓 - A blog on retracted papers which maintains a dataset of retracted papers
-
 ## Crowd editing
 * [Overleaf](https://www.overleaf.com/) 📝 - Online collaborative LaTeX editor 
 * [Google Docs](https://docs.google.com/) [Google] 📝 - Online collaborative office suite
@@ -119,6 +117,7 @@ Many [search engines](#search-engines) provides API to collect bibliographic dat
 * [Colaboratory](https://colab.research.google.com/) [Google] 📝 - Online collaborative jupyter notebooks
 * [GitHub](https://github.com/) [Microsoft] 📝 - Online git server
 * [GitLab](https://gitlab.com/) 🔓📝 - Online open-source git server
+* [Authorea](https://www.authorea.com/) 📝 - Online collaborative editor. Allow to publish the document as preprint
 
 ## Grammar checker
 ### Sites
@@ -129,7 +128,13 @@ Many [search engines](#search-engines) provides API to collect bibliographic dat
 * LanguageTool
 * Grammarly
 
-
 ## Journal management systems
 * [Open Journal Systems](https://pkp.sfu.ca/ojs/) 🔓 - Journal management, from submission to peer review and publishing
 * [PubPub](https://www.pubpub.org/) 🔓 - Journal management, from crowd editing, to peer review and publishing
+
+## Open Science
+### Open peer review and research integrity
+* [PubPeer](https://pubpeer.com/) - An archive of comments to articles to point out errors and strange choices. In other words a post-publication peer-review site
+* [Retraction Watch](https://retractionwatch.com/) 🔓 - A blog on retracted papers which maintains a dataset of retracted papers
+### Learning Resources
+* [Open Science MOOC](https://opensciencemooc.eu/) - Legacy resource on open science. Appear to not be managed anymore
