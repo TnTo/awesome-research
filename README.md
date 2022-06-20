@@ -121,12 +121,13 @@ Many [search engines](#search-engines) provides API to collect bibliographic dat
 
 ## Grammar checker
 ### Sites
-* reverso
-* wordreference
-* deepl
+* [WordReference](https://www.wordreference.com/) - Online dictionary, both mono- and bi-lingual
+* [Reverso](https://www.reverso.net/) - Online translations, provided with real world examples
+* [DeepL](https://www.deepl.com/) - Online translation, also for short texts
+* [Google Translate](https://translate.google.com/) [Google] - Online translator
 ### Software and Plugins
-* LanguageTool
-* Grammarly
+* [LanguageTool](https://languagetool.org/) 🔓 - Open Source multilingual grammar, style, and spell checker. Available as online API, browser plugin and offline software
+* [Grammarly](https://www.grammarly.com/) 📝 - Browser plugin for grammar, style, and spell checking
 
 ## Journal management systems
 * [Open Journal Systems](https://pkp.sfu.ca/ojs/) 🔓 - Journal management, from submission to peer review and publishing
