@@ -52,6 +52,7 @@ Most of these resources also allow to recover a copy of the paper or book search
 #### Discipline specific
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/) [US goverment] 🇺🇳 - Biomedical science
 * [Papers with code](https://paperswithcode.com/) [Meta] 🔓 - Computer Science, with link to the code used in the paper
+* [MATHSCINET](https://mathscinet.ams.org/mathscinet/) - American Mathematical Society search engine
 
 ### Literature explorer
 * [Connected Papers](https://www.connectedpapers.com/) 🔓 - Suggest similar papers based on the citation network
@@ -74,23 +75,24 @@ These are additional resources which search internet for pdf version of articles
 ## Preprint servers and other repositories
 
 ### Preprint servers
-* osf
-* https://www.ssrn.com/ [Elsivier]
-* https://hal.archives-ouvertes.fr/
+* [OSF](https://osf.io/) - Multidisciplinary pre-print repository. It provides a lot of [discipline specific repository](https://osf.io/preprints/)
+* [SSRN](https://www.ssrn.com/) [Elsivier] -  Elsivier pre-print repository
+* [HAL](https://hal.archives-ouvertes.fr/) [CNRS - France] 🇺🇳 - Archive provided by the French CNRS, open to everyone
 
 #### Discipline specific
-* arxiv
-* repec
+* [arXiv](https://arxiv.org/) [Cornell University] 🇺🇳 - The oldest pre-print repository, mostly physics, maths, CS and related fields
+* [ChemRxiv](https://chemrxiv.org/) - Chemistry pre-print repository
+* [RePEc](http://repec.org/) - Pre-print repository and more for Economics
 
 ### Other repositories
-* zenodo
-* academictorrents
-  
+* [zenodo](https://zenodo.org/) [UE] 🇺🇳 - Online repository for data, software and more
+* [Academic Torrents](https://academictorrents.com/) 🏴‍☠️ - Torrent-based platform to share large datasets
+
 #### Discipline specific
-* jstor
+* [JSTOR](https://www.jstor.org/) - Library-like project to preserve books and papers in social science
 
 ## Dataset of Academic Data
-Many [search engines](#search-engines) provides API to collect bibliographic data, these are additional dataset without online searching capacities.
+Many [search engines](#search-engines) and [repositories](#preprint-servers-and-other-repositories) provide API to collect bibliographic data, these are additional dataset without online searching capacities.
 
 * https://openalex.org/ [OurResearch]
 * https://opencitations.net/
