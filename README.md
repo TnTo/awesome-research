@@ -56,6 +56,7 @@ Most of these resources also allow to recover a copy of the paper or book search
 
 ### Literature explorer
 * [Connected Papers](https://www.connectedpapers.com/) 🔓 - Suggest similar papers based on the citation network
+* [Elicit](https://elicit.org/) 📝 - Suggest references based on research questions. Powered by GPT-3 based AI model
 
 ### Indexes
 * [doi.org](https://www.doi.org/) - Index of the Digital Object Identifier (DOI) which redirect to the associated web page (e.g. the papers page on publisher site)
