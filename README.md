@@ -89,18 +89,18 @@ These are additional resources which search internet for pdf version of articles
 * [Academic Torrents](https://academictorrents.com/) 🏴‍☠️ - Torrent-based platform to share large datasets
 
 #### Discipline specific
-* [JSTOR](https://www.jstor.org/) - Library-like project to preserve books and papers in social science
+* [JSTOR](https://www.jstor.org/) [ITHAKA] - Library-like project to preserve books and papers in social science
 
 ## Dataset of Academic Data
-Many [search engines](#search-engines) and [repositories](#preprint-servers-and-other-repositories) provide API to collect bibliographic data, these are additional dataset without online searching capacities.
+Many [search engines](#search-engines) and [repositories](#preprint-servers-and-other-repositories) provide API to collect bibliographic data, these are additional dataset focused on research social networks, bibliographic data or text availability. Many of the resources in this section aim to replace the discontinued Microsoft Academic Graph (MAG).
 
-* https://openalex.org/ [OurResearch]
-* https://opencitations.net/
-* https://www.lens.org/
-* https://www.dimensions.ai/
-* https://www.aminer.org/
-* https://constellate.org/
-* CrossRef API (mirrored on academic torrents) https://academictorrents.com/browse.php?search=crossref
+* [OpenAlex](https://openalex.org/) [OurResearch] 🔓 - Data released in CC0
+* [OpenCitations](https://opencitations.net/) [Bologna University] 🔓🇺🇳 - Focus on citations, data realeased under CC0
+* [LENS:ORG](https://www.lens.org/) - With web interface, focus on patents
+* [Dimensions](https://www.dimensions.ai/) - With web interface
+* [AMiner](https://www.aminer.org/) - China-based, with web interface
+* [Constellate](https://constellate.org/) [ITHAKA] - Provides data (often including the full text) of articles available on JSTOR and Portico. With web interface
+* [CrossRef API](https://api.crossref.org/swagger-ui/index.html) - Snapshot available on [Academic Torrents](https://academictorrents.com/browse.php?search=crossref)
 
 ## Reference management
 * [Zotero](https://www.zotero.org/) 🔓 - An open-source reference manager. It supports many backends for backup and it is extensible with many plugins. Require registration for online use, which remains limited
