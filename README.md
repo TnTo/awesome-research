@@ -53,10 +53,13 @@ Most of these resources also allow to recover a copy of the paper or book search
 * [Pubmed](https://pubmed.ncbi.nlm.nih.gov/) [US goverment] 🇺🇳 - Biomedical science
 * [Papers with code](https://paperswithcode.com/) [Meta] 🔓 - Computer Science, with link to the code used in the paper
 * [MATHSCINET](https://mathscinet.ams.org/mathscinet/) - American Mathematical Society search engine
+* [CiteSeerX](https://citeseerx.ist.psu.edu/) - A search engine focused on Computer Science
 
 ### Literature explorer
 * [Connected Papers](https://www.connectedpapers.com/) 🔓 - Suggest similar papers based on the citation network
 * [Elicit](https://elicit.org/) 📝 - Suggest references based on research questions. Powered by GPT-3 based AI model
+* [Open Knowledge Maps](https://openknowledgemaps.org/) 🔓 - Select and regroup 100 most-related papers given some keywordss
+* [Inciteful](https://inciteful.xyz/) - Explore the citation network to provide similar papers
 
 ### Indexes
 * [doi.org](https://www.doi.org/) - Index of the Digital Object Identifier (DOI) which redirect to the associated web page (e.g. the papers page on publisher site)
